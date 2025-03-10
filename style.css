@@ -15,6 +15,9 @@ header {
     padding: 20px;
     background: url(images/logo.png) no-repeat;
     background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: right;
 }
 
 main {
@@ -31,6 +34,7 @@ aside {
     color: white;
     width: 30%;
     float: left;
+    text-align: center;
     padding: 20px;
     box-sizing: border-box;
 }
@@ -40,6 +44,7 @@ footer {
     color: white;
     padding: 10px;
     clear: both;
+    text-align: center;
 }
 
 /* Componentes Menu Principal */
@@ -80,20 +85,37 @@ footer {
     width: 150px;
 }
 
+.caixa-post p {
+    padding: 10px;
+}
+
 /* Componentes Pesquisa */
 .caixa-pesquisa {
     
 }
 
-/* Componentes Categoria */
-.caixa-categoria {
-    
-}
-
-.caixa-categoria ol li a {
-    color: black;  
-}
-
-.caixa-categoria ol li a:visited {
+.caixa-pesquisa button {
+    background-color: white;
     color: black;
+    width: 40px;
+    height: 30px;
+    font-weight: bold;
+}
+
+/* Componentes Categoria */
+.caixa-categorias {
+    padding: 40px;
+}
+
+.caixa-categorias ul li {
+    list-style-type: none;
+}
+
+
+.caixa-categorias ul li a {
+    color: white;
+}
+
+.caixa-categorias ul li a:visited {
+    color: white;
 }

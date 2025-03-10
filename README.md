@@ -19,5 +19,4 @@ Meu esboço ficou IGUAL ao exemplo criado pelo Rommel, mas com pequenas alteraç
 ![alt text](image-1.png)
 
 ## Print da home-page criada
-
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-2.png)
