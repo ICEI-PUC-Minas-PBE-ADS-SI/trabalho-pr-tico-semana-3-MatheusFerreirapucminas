@@ -8,16 +8,12 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Matheus Henrique Borges Ferreira
+- Matricula: 881020
+- Proposta de projeto escolhida: Catálogo de Filmes
+- Breve descrição sobre seu projeto: A ideia principal é criar um site funcional, com (a pricípio) características de filmes específicos (sinopse, elenco, entre outros), mas com possibilidade de adição de novos filmes no futuro. Além disso, terá uma parte focada nas curiosidades do cinema e no maior prêmio da história da cinematografia (Oscar).
 
 ## Print do esboço criada
-
-<<  COLOQUE A IMAGEM AQUI >>
-
 
 ## Print da home-page criada
 
