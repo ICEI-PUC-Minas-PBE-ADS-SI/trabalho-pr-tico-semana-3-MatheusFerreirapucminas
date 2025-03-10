@@ -90,8 +90,9 @@ footer {
 }
 
 /* Componentes Pesquisa */
-.caixa-pesquisa {
-    
+.caixa-pesquisa input {
+    padding: 5px;
+    border-radius: 10px;
 }
 
 .caixa-pesquisa button {
@@ -100,6 +101,7 @@ footer {
     width: 40px;
     height: 30px;
     font-weight: bold;
+    border-radius: 10px;
 }
 
 /* Componentes Categoria */
