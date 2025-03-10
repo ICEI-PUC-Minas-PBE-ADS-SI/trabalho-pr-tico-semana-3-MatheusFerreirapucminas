@@ -14,6 +14,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Breve descrição sobre seu projeto: A ideia principal é criar um site funcional, com (a pricípio) características de filmes específicos (sinopse, elenco, entre outros), mas com possibilidade de adição de novos filmes no futuro. Além disso, terá uma parte focada nas curiosidades do cinema e no maior prêmio da história da cinematografia (Oscar).
 
 ## Print do esboço criada
+Meu esboço ficou IGUAL ao exemplo criado pelo Rommel, mas com pequenas alterações feitas no códigos HTML e CSS.
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## Print da home-page criada
 
